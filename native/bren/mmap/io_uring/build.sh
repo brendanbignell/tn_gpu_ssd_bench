@@ -1,0 +1,1 @@
+nvcc -Xcompiler -fPIC -shared read_to_gpu_io_uring_enhanced.cu -o read_to_gpu_io_uring_enhanced.so -luring -O 3

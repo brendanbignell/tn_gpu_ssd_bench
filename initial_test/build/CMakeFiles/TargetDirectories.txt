@@ -1,0 +1,8 @@
+/home/bren/repos/tn_gpu_ssd_bench/athish/build/CMakeFiles/kv_cache_bandwidth_tester.dir
+/home/bren/repos/tn_gpu_ssd_bench/athish/build/CMakeFiles/install_dependencies.dir
+/home/bren/repos/tn_gpu_ssd_bench/athish/build/CMakeFiles/edit_cache.dir
+/home/bren/repos/tn_gpu_ssd_bench/athish/build/CMakeFiles/rebuild_cache.dir
+/home/bren/repos/tn_gpu_ssd_bench/athish/build/CMakeFiles/list_install_components.dir
+/home/bren/repos/tn_gpu_ssd_bench/athish/build/CMakeFiles/install.dir
+/home/bren/repos/tn_gpu_ssd_bench/athish/build/CMakeFiles/install/local.dir
+/home/bren/repos/tn_gpu_ssd_bench/athish/build/CMakeFiles/install/strip.dir
